@@ -1,6 +1,6 @@
 # Alpine Hardened Image
 
-A hardened alpine linux image leveraging a fork of [jumanjiman/harden.sh](https://gist.github.com/jumanjiman/f9d3db977846c163df12) 
+A hardened alpine linux image based on [jumanjiman/harden.sh](https://gist.github.com/jumanjiman/f9d3db977846c163df12) 
 
 Inspired by: 
 - https://github.com/gliderlabs/docker-alpine/issues/101
